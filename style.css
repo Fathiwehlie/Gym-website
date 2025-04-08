@@ -714,7 +714,7 @@ footer{
         translate: 0%;
 
     }
-    .mobile-menu[data-visible="false"]{
+    .mobile-menu[data-visible="true"]{
         transform: translateX(-100vw);
     }
 
